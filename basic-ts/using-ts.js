@@ -14,7 +14,7 @@ button.addEventListener("click", function () {
 });
 // (2) Typescript types
 function add(n1, n2, showResult, phrase) {
-    // console.log(typeof n1, typeof n2);
+    console.log(typeof n1, typeof n2);
     if (showResult) {
         console.log(phrase, n1 + n2);
     }
