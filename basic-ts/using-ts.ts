@@ -20,7 +20,7 @@ button.addEventListener("click", function() {
 // (2) Typescript types
 
 function add(n1: number, n2: number, showResult: boolean, phrase: string){
-  // console.log(typeof n1, typeof n2);
+  console.log(typeof n1, typeof n2, "마스터 브랜치에서 수정함~");
   if (showResult) {
       console.log(phrase, n1 + n2);
   } else {
