@@ -1,2 +1,5 @@
 basic-ts/node_modules/
 basic-ts/.DS_Store/
+
+.DS_Store
+/.DS_Store
